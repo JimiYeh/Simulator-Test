@@ -1,3 +1,5 @@
+紅手指
+
 android
 com.android.backupconfirm
 com.android.bluetooth
